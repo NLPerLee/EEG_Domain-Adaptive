@@ -1,0 +1,2 @@
+method1:GCN_DNN_test3
+method2:MUDA_GCN_2
